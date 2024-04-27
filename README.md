@@ -58,7 +58,7 @@ Diploy Link: [Product Listing Web Application](https://product-listing-web-appli
 - FakeStoreAPI
 
 ### Contributors
-- [Your Name](https://github.com/mihirdas77)
+- [Mihir Das](https://github.com/mihirdas77)
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
