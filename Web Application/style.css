@@ -1,0 +1,47 @@
+
+h1{
+  color: aliceblue;
+}
+.filters{
+    width: 100%;
+    position:fixed;
+    background-color: burlywood;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+.filters select{
+    margin-top: 35px;
+    width: 180px;
+    height: 20px;
+}
+.filters input{
+    margin-top: 35px;
+    width: 300px;
+    height: 20px;
+}
+.products{
+    padding-top: 100px;
+    margin-left: 80px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 50px;
+}
+.product-item img{
+    width: 60%;
+    height: 70%;
+}
+.product-item h3{
+    margin: 10px 0;
+}
+.product-item p{
+    font-weight: bold;
+}
+.product-item{
+    width: 340px;
+    height: 500px;
+    /* border: 1px solid red; */
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
