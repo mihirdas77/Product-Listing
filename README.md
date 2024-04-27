@@ -51,7 +51,6 @@ Diploy Link: [Product Listing Web Application](https://product-listing-web-appli
 5. Access the application in your browser at `http://localhost:3000`.
 
 ### Technologies Used
-- React.js
 - HTML5
 - CSS3
 - JavaScript
